@@ -5,7 +5,7 @@
 ## Publication
 
 Repository: Zenodo  
-Publication date: 2024-11-18
+Publication date: 2024-11-18  
 DOI: [10.5281/zenodo.14178666](https://www.doi.org/10.5281/zenodo.14178666)  
 
 ## Electrical wireing
