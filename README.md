@@ -2,6 +2,12 @@
 
 ![apparatus](img/apparatus.png)
 
+## Publication
+
+Repository: Zenodo  
+Publication date: 2024-11-18 | Journal article  
+DOI: [10.5281/zenodo.14178666](https://www.doi.org/10.5281/zenodo.14178666)  
+
 ## Electrical wireing
 
 ![apparatus](img/electrical.drawio.svg)
