@@ -6,7 +6,8 @@
 
 Repository: Zenodo  
 Publication date: 2024-11-18  
-DOI: [10.5281/zenodo.14178666](https://www.doi.org/10.5281/zenodo.14178666)  
+
+[![DOI](https://zenodo.org/badge/713344499.svg)](https://doi.org/10.5281/zenodo.14178665)
 
 ## Electrical wireing
 
